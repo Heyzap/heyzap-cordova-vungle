@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Heyzap/heyzap-cordova-extras.git"
+    "url": "git+https://github.com/Heyzap/heyzap-cordova-vungle.git"
   },
   "keywords": [
     "cordova",
@@ -39,7 +39,7 @@
   "author": "Heyzap Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Heyzap/heyzap-cordova-extras/issues",
+    "url": "https://github.com/Heyzap/heyzap-cordova-vungle/issues",
     "email": "support@heyzap.com"
   },
   "homepage": "https://developers.heyzap.com/docs/cordova_sdk_setup_and_requirements#step-2-choose-your-3rdparty-sdks-optional"
